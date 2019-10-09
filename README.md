@@ -4,3 +4,6 @@ This project is a very handy tool for python developers. It helps developers to 
 
 
 Made use of: Python ,Django ,Github Api, Shell Scripting.
+
+Here is the youtube video link, you can watch it to know how it works.
+https://youtu.be/FUfrEzzpM8w
