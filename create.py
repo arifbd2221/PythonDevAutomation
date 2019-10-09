@@ -5,8 +5,8 @@ from github import Github
 # provide your workspace directory
 path = "E:\Python/Projects/MyProjects/"
 
-username = "arifbd2221"
-password = "arif110658"
+username = "Github Username"
+password = "Github Password"
 
 def create():
     folderName= str(sys.argv[1])
